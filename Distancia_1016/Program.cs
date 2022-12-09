@@ -8,7 +8,7 @@ class URI {
 
         int time = distance * 2;
 
-        Console.WriteLine($"{time}");
+        Console.WriteLine($"{time} minutos");
     }
 
 }
