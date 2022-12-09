@@ -4,12 +4,11 @@ class URI {
 
     static void Main(string[] args) { 
 
-        /**
-         * Escreva a sua solução aqui
-         * Code your solution here
-         * Escriba su solución aquí
-         */
+        int distance = int.Parse(Console.ReadLine());
 
+        int time = distance * 2;
+
+        Console.WriteLine($"{time}");
     }
 
 }
