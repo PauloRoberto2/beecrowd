@@ -1,0 +1,15 @@
+C:\Users\DEV\Documents\ProdutoSimples_1004\bin\Debug\net7.0\ProdutoSimples_1004.exe
+C:\Users\DEV\Documents\ProdutoSimples_1004\bin\Debug\net7.0\ProdutoSimples_1004.deps.json
+C:\Users\DEV\Documents\ProdutoSimples_1004\bin\Debug\net7.0\ProdutoSimples_1004.runtimeconfig.json
+C:\Users\DEV\Documents\ProdutoSimples_1004\bin\Debug\net7.0\ProdutoSimples_1004.dll
+C:\Users\DEV\Documents\ProdutoSimples_1004\bin\Debug\net7.0\ProdutoSimples_1004.pdb
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.csproj.AssemblyReference.cache
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.AssemblyInfoInputs.cache
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.AssemblyInfo.cs
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.dll
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\refint\ProdutoSimples_1004.dll
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.pdb
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ProdutoSimples_1004.genruntimeconfig.cache
+C:\Users\DEV\Documents\ProdutoSimples_1004\obj\Debug\net7.0\ref\ProdutoSimples_1004.dll

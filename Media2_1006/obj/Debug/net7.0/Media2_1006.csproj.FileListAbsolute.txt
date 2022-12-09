@@ -1,0 +1,15 @@
+C:\Users\DEV\Documents\Media2_1006\bin\Debug\net7.0\Media2_1006.exe
+C:\Users\DEV\Documents\Media2_1006\bin\Debug\net7.0\Media2_1006.deps.json
+C:\Users\DEV\Documents\Media2_1006\bin\Debug\net7.0\Media2_1006.runtimeconfig.json
+C:\Users\DEV\Documents\Media2_1006\bin\Debug\net7.0\Media2_1006.dll
+C:\Users\DEV\Documents\Media2_1006\bin\Debug\net7.0\Media2_1006.pdb
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.csproj.AssemblyReference.cache
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.AssemblyInfoInputs.cache
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.AssemblyInfo.cs
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.dll
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\refint\Media2_1006.dll
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.pdb
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\Media2_1006.genruntimeconfig.cache
+C:\Users\DEV\Documents\Media2_1006\obj\Debug\net7.0\ref\Media2_1006.dll
