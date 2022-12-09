@@ -1,0 +1,15 @@
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.csproj.AssemblyReference.cache
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.AssemblyInfoInputs.cache
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.AssemblyInfo.cs
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.csproj.CoreCompileInputs.cache
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\bin\Debug\net6.0\ex-1008.exe
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\bin\Debug\net6.0\ex-1008.deps.json
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\bin\Debug\net6.0\ex-1008.runtimeconfig.json
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\bin\Debug\net6.0\ex-1008.dll
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\bin\Debug\net6.0\ex-1008.pdb
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.dll
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\refint\ex-1008.dll
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.pdb
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ex-1008.genruntimeconfig.cache
+C:\Users\Racunni\Documents\DEV\C#\bee-crowd\ex-1008\obj\Debug\net6.0\ref\ex-1008.dll
