@@ -23,6 +23,8 @@ class URI {
         Console.WriteLine($"QUADRADO: {qua:f3}");
         Console.WriteLine($"RETANGULO: {ret:f3}");
 
+	    Console.ReadKey();
+
     }
 
 }
