@@ -1,0 +1,15 @@
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\bin\Debug\net6.0\GastodeCombustivel_1017.exe
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\bin\Debug\net6.0\GastodeCombustivel_1017.deps.json
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\bin\Debug\net6.0\GastodeCombustivel_1017.runtimeconfig.json
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\bin\Debug\net6.0\GastodeCombustivel_1017.dll
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\bin\Debug\net6.0\GastodeCombustivel_1017.pdb
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.csproj.AssemblyReference.cache
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.AssemblyInfoInputs.cache
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.AssemblyInfo.cs
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.dll
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\refint\GastodeCombustivel_1017.dll
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.pdb
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\GastodeCombustivel_1017.genruntimeconfig.cache
+C:\Users\DEV\Documents\GitHub\beecrowd\GastodeCombustivel_1017\obj\Debug\net6.0\ref\GastodeCombustivel_1017.dll
