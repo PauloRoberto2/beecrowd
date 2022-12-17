@@ -9,6 +9,8 @@ class URI {
         double sales = double.Parse(Console.ReadLine());
         double total = wage + sales * 0.15 ;
         Console.WriteLine($"TOTAL = R$ {total:f2}");
+
+        Console.ReadKey();        
     }
 
 }

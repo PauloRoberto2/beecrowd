@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV\\Documents\\CODE\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj": {}
+    "C:\\Users\\Racunni\\Documents\\GitHub\\beecrowd\\C#\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV\\Documents\\CODE\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj": {
+    "C:\\Users\\Racunni\\Documents\\GitHub\\beecrowd\\C#\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV\\Documents\\CODE\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj",
+        "projectUniqueName": "C:\\Users\\Racunni\\Documents\\GitHub\\beecrowd\\C#\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj",
         "projectName": "SalariocomBonus_1009",
-        "projectPath": "C:\\Users\\DEV\\Documents\\CODE\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj",
-        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV\\Documents\\CODE\\SalariocomBonus_1009\\obj\\",
+        "projectPath": "C:\\Users\\Racunni\\Documents\\GitHub\\beecrowd\\C#\\SalariocomBonus_1009\\SalariocomBonus_1009.csproj",
+        "packagesPath": "C:\\Users\\Racunni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Racunni\\Documents\\GitHub\\beecrowd\\C#\\SalariocomBonus_1009\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Racunni\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
