@@ -14,6 +14,8 @@ class Program {
 
         Console.WriteLine($"{hour}:{min}:{sec}");
 
+        Console.ReadKey();
+
     }
 
-}   
+}
