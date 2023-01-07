@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DEV\\.nuget\\packages\\": {}
+    "C:\\Users\\Paulo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV\\Documents\\GitHub\\beecrowd\\Area_1012\\Area_1012.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\Area_1012\\Area_1012.csproj",
       "projectName": "Area_1012",
-      "projectPath": "C:\\Users\\DEV\\Documents\\GitHub\\beecrowd\\Area_1012\\Area_1012.csproj",
-      "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV\\Documents\\GitHub\\beecrowd\\Area_1012\\obj\\",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\Area_1012\\Area_1012.csproj",
+      "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\Area_1012\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
