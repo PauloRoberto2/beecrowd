@@ -10,13 +10,13 @@ class MainClass {
     for (int i = 0; i < notas.Length; i++) { // percorre as notas
       int quantidade = valorInt / notas[i]; // calcula a quantidade de notas
       valorInt = valorInt % notas[i]; // atualiza o valor restante
-      Console.WriteLine(quantidade + " nota(s) de R$ " + notas[i] / 100.0); // imprime a quantidade de notas
+      Console.WriteLine(string.Format("{0} nota(s) de R$ {1:0.00}", quantidade, notas[i] / 100.0)); 
     }
     Console.WriteLine("MOEDAS:");
     for (int i = 0; i < moedas.Length; i++) { // percorre as moedas
       int quantidade = valorInt / moedas[i]; // calcula a quantidade de moedas
       valorInt = valorInt % moedas[i]; // atualiza o valor restante
-      Console.WriteLine(quantidade + " moeda(s) de R$ " + moedas[i] / 100.0); // imprime a quantidade de moedas
+      Console.WriteLine(string.Format("{0} moeda(s) de R$ {1:0.00}", quantidade, moedas[i] / 100.0)); 
     }
   }
 }
