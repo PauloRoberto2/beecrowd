@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias_1020\\IdadeemDias1020.csproj",
-      "projectName": "IdadeemDias1020",
-      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias_1020\\IdadeemDias1020.csproj",
+      "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias_1020\\IdadeemDias_1020.csproj",
+      "projectName": "IdadeemDias_1020",
+      "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias_1020\\IdadeemDias_1020.csproj",
       "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias_1020\\obj\\",
       "projectStyle": "PackageReference",
