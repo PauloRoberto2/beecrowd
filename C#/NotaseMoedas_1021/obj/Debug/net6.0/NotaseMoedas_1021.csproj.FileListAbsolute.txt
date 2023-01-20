@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\bin\Debug\net6.0\NotaseMoedas_1021.exe
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\bin\Debug\net6.0\NotaseMoedas_1021.deps.json
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\bin\Debug\net6.0\NotaseMoedas_1021.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\bin\Debug\net6.0\NotaseMoedas_1021.dll
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\bin\Debug\net6.0\NotaseMoedas_1021.pdb
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.dll
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\refint\NotaseMoedas_1021.dll
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.pdb
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\NotaseMoedas_1021.genruntimeconfig.cache
+C:\Users\Paulo\Documents\GitHub\beecrowd\C#\NotaseMoedas_1021\obj\Debug\net6.0\ref\NotaseMoedas_1021.dll

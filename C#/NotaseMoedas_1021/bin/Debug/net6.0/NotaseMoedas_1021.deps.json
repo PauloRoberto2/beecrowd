@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NotaseMoedas_1021/1.0.0": {
+        "runtime": {
+          "NotaseMoedas_1021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotaseMoedas_1021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
