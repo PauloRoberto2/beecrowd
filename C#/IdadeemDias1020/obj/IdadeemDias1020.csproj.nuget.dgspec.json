@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\HelloWorld_1000\\IdadeemDias1020\\IdadeemDias1020.csproj": {}
+    "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias1020\\IdadeemDias1020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\HelloWorld_1000\\IdadeemDias1020\\IdadeemDias1020.csproj": {
+    "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias1020\\IdadeemDias1020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\HelloWorld_1000\\IdadeemDias1020\\IdadeemDias1020.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias1020\\IdadeemDias1020.csproj",
         "projectName": "IdadeemDias1020",
-        "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\HelloWorld_1000\\IdadeemDias1020\\IdadeemDias1020.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias1020\\IdadeemDias1020.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\HelloWorld_1000\\IdadeemDias1020\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Documents\\GitHub\\beecrowd\\C#\\IdadeemDias1020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
